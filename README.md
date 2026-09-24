@@ -6,16 +6,21 @@
 <Br>
 <h1>About Me! 😎</h1>
 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br>
+
 - 🏫: I'm a grade 10, High School Student.
 - 🔭: I’m currently studying at ICET Institute.
 - 🌱: I’m currently learning Neural Networks and Deep Learning. 🧠💻🤖
 - 🤔: I’m looking for help with anything I am currently learning! 😅
-- 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠
-- 😄  Pronouns: she/her
-- ⚡  Fun fact: I play Netball, Tennis and the Piano! ⚽🎾🎹
+- 😄: she/her
+- ⚡: I play Netball, Tennis and the Piano! ⚽🎾🎹
+  
 
-
-**aronperera715-spec/aronperera715-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+'As an aspiring Software Engineer, I am highly focused on building the foundational technical skills, analytical thinking, and industry-standard practices required to deliver high-quality software solutions. My journey is driven by a deep curiosity about how large-scale applications are engineered and a commitment to mastering modern dev workflows, clean coding patterns, and version control. I am actively working on translating theoretical computing concepts into practical, functional code while exploring robust architecture design and efficient algorithms. By dedicating myself to continuous learning, building hands-on projects, and understanding how to solve complex, real-world problems, I am bridging the gap between being a learner and a capable professional. Guided by a growth mindset and a passion for technology, my ultimate goal is to transition into a professional software engineer who contributes meaningful value, innovation, and reliable performance to the tech industry.As an aspiring Software Engineer, I am highly focused on building the foundational technical skills, analytical thinking, and industry-standard practices required to deliver high-quality software solutions. My journey is driven by a deep curiosity about how large-scale applications are engineered and a commitment to mastering modern dev workflows, clean coding patterns, and version control. I am actively working on translating theoretical computing concepts into practical, functional code while exploring robust architecture design and efficient algorithms. By dedicating myself to continuous learning, building hands-on projects, and understanding how to solve complex, real-world problems, I am bridging the gap between being a learner and a capable professional. Guided by a growth mindset and a passion for technology, my ultimate goal is to transition into a professional software engineer who contributes meaningful value, innovation, and reliable performance to the tech industry.'
 
 
 
@@ -46,41 +51,13 @@
 
 <br/>
 
-
-
-## 🙋‍♀️ Let's Connect
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
-  
-	
-	
-  <a href="https://www.facebook.com/candida.noronha.77"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://instagram.com/candyyyy__18"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://www.youtube.com/channel/UC7V1Gm8V0kRLp_EHB8aDj2A"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
-	
+	<a href="mailto:ahmed.7oskaa@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/7oSkaaa"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://wa.me/0201208822340"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://www.linkedin.com/in/7oskaa/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/7oSkaaa"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/ahmed_7oskaa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
 </p>
-
-<hr/>
-
-
-
-  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a> 
-
-<br>
-  <p align="center">
-  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
-
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-    
-<!-- retro visitor counter -->  
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/DHANOLA/count.svg" />  
-</p>
-
-------
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
